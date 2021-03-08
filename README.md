@@ -9,4 +9,4 @@ This is my read notes
 | read04b |[link](https://mohammadaqel.github.io/Read-Notes-102/read04b)|
 | read04c |[link](https://mohammadaqel.github.io/Read-Notes-102/read04c)|
 | read05  |[link](https://mohammadaqel.github.io/Read-Notes-102/read05)|
-| read06b |[link](https://mohammadaqel.github.io/Read-Notes-102/read05)|
+| read06b |[link](https://mohammadaqel.github.io/Read-Notes-102/read06b)|
